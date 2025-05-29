@@ -38,14 +38,10 @@ To build a linear regression model that predicts house prices using various nume
 
 ---
 
-## ''' 📂 Folder Structure:
-  📁 ML_Internship_Day3 
-    ┣ 📜 Day3_Regression.ipynb ← Jupyter Notebook with code 
-    ┣ 📜 housing.csv ← Dataset file 
-    ┗ 📜 README.md ← This documentation
-'''
-
+<pre> ```text ML_Internship_Day3/ ├── Day3_Regression.ipynb ← Jupyter Notebook with code ├── housing.csv ← Dataset file └── README.md ← This documentation ``` </pre>
 ---
 
 ## 🔗 Dataset Used:
 [Housing Price Prediction – Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
+
+
