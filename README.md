@@ -39,10 +39,10 @@ To build a linear regression model that predicts house prices using various nume
 ---
 
 ## 📂 Folder Structure:
-📁 ML_Internship_Day3
-┣ 📜 Day3_Regression.ipynb ← Jupyter Notebook with code
-┣ 📜 housing.csv ← Dataset file
-┗ 📜 README.md ← This documentation
+  📁 ML_Internship_Day3
+   ┣ 📜 Day3_Regression.ipynb ← Jupyter Notebook with code
+   ┣ 📜 housing.csv ← Dataset file
+   ┗ 📜 README.md ← This documentation
 
 
 ---
